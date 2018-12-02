@@ -1,0 +1,8 @@
+# Program G01-Textbook
+
+class Textbook:
+    pass
+
+# Test the class: 
+book = Textbook()
+print('1st object', book)
